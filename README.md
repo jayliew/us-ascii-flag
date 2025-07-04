@@ -1,4 +1,4 @@
-HALP me vibe code a US ASCII flag! 
+HALP vibe code a US ASCII flag! 
 
 How hard could it be ... right? 😅
 
